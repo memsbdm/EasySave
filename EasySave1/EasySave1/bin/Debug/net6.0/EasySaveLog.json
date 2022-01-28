@@ -1,0 +1,78 @@
+{
+  "Name": "premier",
+  "FileSource": "/Users/mems/Desktop/Progsys/src1/texte1.txt",
+  "FileTarget": "/Users/mems/Desktop/Progsys/dest/texte1.txt",
+  "FileSize": 5,
+  "FileTransferTime": 1,
+  "Time": "2022-01-28T16:48:42.036209+01:00"
+}{
+  "Name": "premier",
+  "FileSource": "/Users/mems/Desktop/Progsys/src1/Dossier1/.DS_Store",
+  "FileTarget": "/Users/mems/Desktop/Progsys/dest/Dossier1/.DS_Store",
+  "FileSize": 6148,
+  "FileTransferTime": 0,
+  "Time": "2022-01-28T16:48:42.131318+01:00"
+}{
+  "Name": "premier",
+  "FileSource": "/Users/mems/Desktop/Progsys/src1/Dossier1/soustexte1.txt",
+  "FileTarget": "/Users/mems/Desktop/Progsys/dest/Dossier1/soustexte1.txt",
+  "FileSize": 9,
+  "FileTransferTime": 0,
+  "Time": "2022-01-28T16:48:42.132698+01:00"
+}{
+  "Name": "premier",
+  "FileSource": "/Users/mems/Desktop/Progsys/src1/Dossier1/SousSousDossier1/.DS_Store",
+  "FileTarget": "/Users/mems/Desktop/Progsys/dest/Dossier1/SousSousDossier1/.DS_Store",
+  "FileSize": 6148,
+  "FileTransferTime": 0,
+  "Time": "2022-01-28T16:48:42.133776+01:00"
+}{
+  "Name": "premier",
+  "FileSource": "/Users/mems/Desktop/Progsys/src1/Dossier1/SousSousDossier1/soussoustexte1.txt",
+  "FileTarget": "/Users/mems/Desktop/Progsys/dest/Dossier1/SousSousDossier1/soussoustexte1.txt",
+  "FileSize": 13,
+  "FileTransferTime": 1,
+  "Time": "2022-01-28T16:48:42.135965+01:00"
+}{
+  "Name": "deuxieme",
+  "FileSource": "/Users/mems/Desktop/Progsys/src2/.DS_Store",
+  "FileTarget": "/Users/mems/Desktop/Progsys/dest/.DS_Store",
+  "FileSize": 6148,
+  "FileTransferTime": 0,
+  "Time": "2022-01-28T16:48:42.137758+01:00"
+}{
+  "Name": "deuxieme",
+  "FileSource": "/Users/mems/Desktop/Progsys/src2/texte2.txt",
+  "FileTarget": "/Users/mems/Desktop/Progsys/dest/texte2.txt",
+  "FileSize": 5,
+  "FileTransferTime": 0,
+  "Time": "2022-01-28T16:48:42.13899+01:00"
+}{
+  "Name": "deuxieme",
+  "FileSource": "/Users/mems/Desktop/Progsys/src2/Dossier2/.DS_Store",
+  "FileTarget": "/Users/mems/Desktop/Progsys/dest/Dossier2/.DS_Store",
+  "FileSize": 6148,
+  "FileTransferTime": 0,
+  "Time": "2022-01-28T16:48:42.140206+01:00"
+}{
+  "Name": "deuxieme",
+  "FileSource": "/Users/mems/Desktop/Progsys/src2/Dossier2/soustexte2.txt",
+  "FileTarget": "/Users/mems/Desktop/Progsys/dest/Dossier2/soustexte2.txt",
+  "FileSize": 9,
+  "FileTransferTime": 0,
+  "Time": "2022-01-28T16:48:42.14203+01:00"
+}{
+  "Name": "deuxieme",
+  "FileSource": "/Users/mems/Desktop/Progsys/src2/Dossier2/SousSousDossier2/.DS_Store",
+  "FileTarget": "/Users/mems/Desktop/Progsys/dest/Dossier2/SousSousDossier2/.DS_Store",
+  "FileSize": 6148,
+  "FileTransferTime": 0,
+  "Time": "2022-01-28T16:48:42.143083+01:00"
+}{
+  "Name": "deuxieme",
+  "FileSource": "/Users/mems/Desktop/Progsys/src2/Dossier2/SousSousDossier2/soussoustexte2.txt",
+  "FileTarget": "/Users/mems/Desktop/Progsys/dest/Dossier2/SousSousDossier2/soussoustexte2.txt",
+  "FileSize": 13,
+  "FileTransferTime": 0,
+  "Time": "2022-01-28T16:48:42.144141+01:00"
+}
