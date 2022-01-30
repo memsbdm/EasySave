@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "test",
+    "SrcPath": "C:\\Users\\cimbo\\Desktop\\test",
+    "DestPath": "C:\\Users\\cimbo\\Desktop\\dest6",
+    "CreationTime": "30/01/2022 20:59:18",
+    "WorkState": 1,
+    "Type": 2,
+    "TotalFilesToCopy": 5,
+    "TotalDirSize": 0
+  },
+  {
+    "Name": "arrete",
+    "SrcPath": "C:\\Users\\cimbo\\Desktop\\test",
+    "DestPath": "C:\\Users\\cimbo\\Desktop\\dest7",
+    "CreationTime": "30/01/2022 21:40:03",
+    "WorkState": 1,
+    "Type": 1,
+    "TotalFilesToCopy": 5,
+    "TotalDirSize": 0
+  },
+  {
+    "Name": "",
+    "SrcPath": "",
+    "DestPath": "",
+    "CreationTime": "",
+    "WorkState": 0,
+    "Type": 0,
+    "TotalFilesToCopy": 0,
+    "TotalDirSize": 0
+  },
+  {
+    "Name": "",
+    "SrcPath": "",
+    "DestPath": "",
+    "CreationTime": "",
+    "WorkState": 0,
+    "Type": 0,
+    "TotalFilesToCopy": 0,
+    "TotalDirSize": 0
+  },
+  {
+    "Name": "",
+    "SrcPath": "",
+    "DestPath": "",
+    "CreationTime": "",
+    "WorkState": 0,
+    "Type": 0,
+    "TotalFilesToCopy": 0,
+    "TotalDirSize": 0
+  }
+]
