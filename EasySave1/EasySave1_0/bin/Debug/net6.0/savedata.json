@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "test",
+    "SrcPath": "C:\\Users\\cimbo\\Desktop\\test",
+    "DestPath": "C:\\Users\\cimbo\\Desktop\\dest",
+    "CreationTime": "29/01/2022 22:30:08",
+    "WorkState": 1,
+    "Type": 1,
+    "TotalFilesToCopy": 3,
+    "TotalDirSize": 0
+  },
+  {
+    "Name": "test2",
+    "SrcPath": "C:\\Users\\cimbo\\Desktop\\test",
+    "DestPath": "C:\\Users\\cimbo\\Desktop\\dest2",
+    "CreationTime": "29/01/2022 22:30:23",
+    "WorkState": 1,
+    "Type": 1,
+    "TotalFilesToCopy": 3,
+    "TotalDirSize": 0
+  },
+  {
+    "Name": "test3",
+    "SrcPath": "C:\\Users\\cimbo\\Desktop\\test",
+    "DestPath": "C:\\Users\\cimbo\\Desktop\\dest3",
+    "CreationTime": "29/01/2022 22:30:43",
+    "WorkState": 1,
+    "Type": 1,
+    "TotalFilesToCopy": 3,
+    "TotalDirSize": 0
+  },
+  {
+    "Name": "testdiff",
+    "SrcPath": "C:\\Users\\cimbo\\Desktop\\test",
+    "DestPath": "C:\\Users\\cimbo\\Desktop\\dest4",
+    "CreationTime": "29/01/2022 22:36:28",
+    "WorkState": 1,
+    "Type": 2,
+    "TotalFilesToCopy": 3,
+    "TotalDirSize": 0
+  },
+  {
+    "Name": "",
+    "SrcPath": "",
+    "DestPath": "",
+    "CreationTime": "",
+    "WorkState": 0,
+    "Type": 0,
+    "TotalFilesToCopy": 0,
+    "TotalDirSize": 0
+  }
+]
