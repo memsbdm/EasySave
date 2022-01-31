@@ -33,8 +33,8 @@ namespace EasySave1
                 sw.WriteLine($"\"State\": \"{Model.WorkList[workNb - 1].WorkState}\", ");
                 sw.WriteLine($"\"TotalFilesToCopy\": {Model.WorkList[workNb - 1].TotalFilesToCopy}, ");
                 sw.WriteLine($"\"TotalFilesSize\": {Model.WorkList[workNb - 1].TotalDirSize}, ");
-                sw.WriteLine($"\"time\": {SaveAction.NbFilesLeftToDo} ");
-               // sw.WriteLine($"\"Progression\": {SaveAction.NbFilesLeftToDo} ");
+                sw.WriteLine($"\"NbFilesLeftToDo\": {Model.WorkList[workNb-1].NbFilesLeftToDo} ");
+                sw.WriteLine($"\"Progression\": {Model.WorkList[workNb - 1].Progression} ");
                 sw.WriteLine("}");
             }
         }

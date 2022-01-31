@@ -1,90 +1,450 @@
 {
 "Name": "test", 
 "SourceDir": "C:\Users\cimbo\Desktop\test", 
-"TargetDir": "C:\Users\cimbo\Desktop\dest6", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
 "State": "active", 
 "TotalFilesToCopy": 5, 
 "TotalFilesSize": 0, 
-"time": 0 
+"NbFilesLeftToDo": 4 
+"Progression": 100 
 }
 {
 "Name": "test", 
 "SourceDir": "C:\Users\cimbo\Desktop\test", 
-"TargetDir": "C:\Users\cimbo\Desktop\dest6", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
 "State": "active", 
 "TotalFilesToCopy": 5, 
 "TotalFilesSize": 0, 
-"time": 0 
+"NbFilesLeftToDo": 3 
+"Progression": 100 
 }
 {
 "Name": "test", 
 "SourceDir": "C:\Users\cimbo\Desktop\test", 
-"TargetDir": "C:\Users\cimbo\Desktop\dest6", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
 "State": "active", 
 "TotalFilesToCopy": 5, 
 "TotalFilesSize": 0, 
-"time": 0 
+"NbFilesLeftToDo": 2 
+"Progression": 100 
 }
 {
 "Name": "test", 
 "SourceDir": "C:\Users\cimbo\Desktop\test", 
-"TargetDir": "C:\Users\cimbo\Desktop\dest6", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
 "State": "active", 
 "TotalFilesToCopy": 5, 
 "TotalFilesSize": 0, 
-"time": 0 
+"NbFilesLeftToDo": 1 
+"Progression": 100 
 }
 {
 "Name": "test", 
 "SourceDir": "C:\Users\cimbo\Desktop\test", 
-"TargetDir": "C:\Users\cimbo\Desktop\dest6", 
-"State": "active", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "ended", 
 "TotalFilesToCopy": 5, 
 "TotalFilesSize": 0, 
-"time": 0 
+"NbFilesLeftToDo": 0 
+"Progression": 100 
 }
 {
-"Name": "arrete", 
+"Name": "test", 
 "SourceDir": "C:\Users\cimbo\Desktop\test", 
-"TargetDir": "C:\Users\cimbo\Desktop\dest7", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
 "State": "active", 
 "TotalFilesToCopy": 5, 
 "TotalFilesSize": 0, 
-"time": 4 
+"NbFilesLeftToDo": 4 
+"Progression": 100 
 }
 {
-"Name": "arrete", 
+"Name": "test", 
 "SourceDir": "C:\Users\cimbo\Desktop\test", 
-"TargetDir": "C:\Users\cimbo\Desktop\dest7", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
 "State": "active", 
 "TotalFilesToCopy": 5, 
 "TotalFilesSize": 0, 
-"time": 3 
+"NbFilesLeftToDo": 3 
+"Progression": 100 
 }
 {
-"Name": "arrete", 
+"Name": "test", 
 "SourceDir": "C:\Users\cimbo\Desktop\test", 
-"TargetDir": "C:\Users\cimbo\Desktop\dest7", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
 "State": "active", 
 "TotalFilesToCopy": 5, 
 "TotalFilesSize": 0, 
-"time": 2 
+"NbFilesLeftToDo": 2 
+"Progression": 100 
 }
 {
-"Name": "arrete", 
+"Name": "test", 
 "SourceDir": "C:\Users\cimbo\Desktop\test", 
-"TargetDir": "C:\Users\cimbo\Desktop\dest7", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
 "State": "active", 
 "TotalFilesToCopy": 5, 
 "TotalFilesSize": 0, 
-"time": 1 
+"NbFilesLeftToDo": 1 
+"Progression": 100 
 }
 {
-"Name": "arrete", 
+"Name": "test", 
 "SourceDir": "C:\Users\cimbo\Desktop\test", 
-"TargetDir": "C:\Users\cimbo\Desktop\dest7", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "ended", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 0 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
 "State": "active", 
 "TotalFilesToCopy": 5, 
 "TotalFilesSize": 0, 
-"time": 0 
+"NbFilesLeftToDo": 4 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 3 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 2 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 1 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "ended", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 0 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 4 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 3 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 2 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 1 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "ended", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 0 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 4 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 3 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 2 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 1 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "ended", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 0 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 4 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 3 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 2 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 1 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "ended", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 0 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 4 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 3 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 2 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 1 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "ended", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 0 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 4 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 3 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 2 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 1 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "ended", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 0 
+"Progression": 100 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 4 
+"Progression": 20 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 3 
+"Progression": 40 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 2 
+"Progression": 60 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "active", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 1 
+"Progression": 80 
+}
+{
+"Name": "test", 
+"SourceDir": "C:\Users\cimbo\Desktop\test", 
+"TargetDir": "C:\Users\cimbo\Desktop\test2", 
+"State": "ended", 
+"TotalFilesToCopy": 5, 
+"TotalFilesSize": 0, 
+"NbFilesLeftToDo": 0 
+"Progression": 100 
 }
