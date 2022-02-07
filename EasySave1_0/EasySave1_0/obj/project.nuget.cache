@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2D01ILgPXdB3V9fSL4nPFzbt2mZyZ+cCl+Qzsr949QK8/uUEiP+3fQArp76aTEiKztXjjiTxw97dU3NegDuYoA==",
+  "success": true,
+  "projectFilePath": "/Users/mems/Desktop/test/EasySave1_0/EasySave1_0/EasySave1_0.csproj",
+  "expectedPackageFiles": [
+    "/Users/mems/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
