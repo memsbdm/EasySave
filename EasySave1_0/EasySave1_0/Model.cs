@@ -60,7 +60,7 @@ namespace EasySave1
 
         public static void CreateDataFile()
         {
-            using (var sw = new StreamWriter(saveDataFilePath, true)) ;
+            using (var sw = new StreamWriter(saveDataFilePath, true));
         }
 
 

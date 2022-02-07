@@ -1,0 +1,928 @@
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest10\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest10\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest4\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest4\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest6\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest6\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest7\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 2 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest7\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 3 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest10\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest10\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 7 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest4\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest4\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest6\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 2 
+"time": 07/02/2022 11:44:28 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest6\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 2 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest7\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest7\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest10\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 2 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest4\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest6\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest7\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest10\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest10\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest4\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest4\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest6\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest6\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest7\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest7\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest10\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest10\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest4\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest4\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest6\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest6\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest7\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest7\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest10\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest4\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest6\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest7\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:44:29 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 2 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest10\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest10\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest4\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 5 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest4\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest6\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest6\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 20 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest7\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest7\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 10 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest10\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest10\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest4\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 6 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest4\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest6\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest6\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest7\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest7\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest10\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 1 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest4\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest6\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\dest7\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test3\test2\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest10\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest10\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest4\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest4\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest6\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest6\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 2 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest7\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest7\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test.xlsx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\test.xlsx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest10\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest10\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest4\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest4\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest6\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest6\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest7\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 2 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest7\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\d\Nouveau DOC Document.doc", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\d\Nouveau DOC Document.doc", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test2\test.docx", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\test2\test.docx", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest10\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest10\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest4\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest4\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest6\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest6\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\dest7\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\dest7\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}
+{
+"Name": "C:\Users\cimbo\Desktop\test", 
+"FileSource": "C:\Users\cimbo\Desktop\test\test2\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileTarget": "C:\Users\cimbo\Desktop\test4\test2\test2\r\Nouveau Microsoft Word 97 - 2003 Template.dot", 
+"FileSize": 0, 
+"FileTransferTime": 0 
+"time": 07/02/2022 11:45:34 
+}

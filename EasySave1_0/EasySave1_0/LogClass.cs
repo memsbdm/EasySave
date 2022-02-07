@@ -9,25 +9,25 @@ namespace EasySave1
         public static void WriteLog(int workNb)
         {
             var easySaveLogJsonPath = Path.Combine(Directory.GetCurrentDirectory(), "EasySaveLog.json");
-            var logPath = easySaveLogJsonPath.Replace("bin/Debug/net6.0", "Logs");
-            using(StreamWriter sw = new StreamWriter(logPath, true))
+            var logPath = easySaveLogJsonPath.Replace(@"bin\Debug\net6.0", "Logs");
+            using (StreamWriter sw = new StreamWriter(logPath, true))
             {
 
-                    sw.WriteLine("{");
-                    sw.WriteLine($"\"Name\": \"{Model.WorkList[workNb-1].Name}\", ");
-                    sw.WriteLine($"\"FileSource\": \"{SaveAction.FileSrcPath}\", ");
-                    sw.WriteLine($"\"FileTarget\": \"{SaveAction.FileDestPath}\", ");
-                    sw.WriteLine($"\"FileSize\": {SaveAction.FileSize}, ");
-                    sw.WriteLine($"\"FileTransferTime\": {SaveAction.FileTransferTime} ");
-                    sw.WriteLine($"\"time\": {GetTimestamp(DateTime.Now)} ");
-                    sw.WriteLine("}");
+                sw.WriteLine("{");
+                sw.WriteLine($"\"Name\": \"{Model.WorkList[workNb - 1].Name}\", ");
+                sw.WriteLine($"\"FileSource\": \"{SaveAction.FileSrcPath}\", ");
+                sw.WriteLine($"\"FileTarget\": \"{SaveAction.FileDestPath}\", ");
+                sw.WriteLine($"\"FileSize\": {SaveAction.FileSize}, ");
+                sw.WriteLine($"\"FileTransferTime\": {SaveAction.FileTransferTime} ");
+                sw.WriteLine($"\"time\": {GetTimestamp(DateTime.Now)} ");
+                sw.WriteLine("}");
             }
         }
 
         public static void WriteLogXML(int workNb)
         {
             var easySaveLogXmlPath = Path.Combine(Directory.GetCurrentDirectory(), "EasySaveLog.xml");
-            var logPath = easySaveLogXmlPath.Replace("bin/Debug/net6.0", "Logs");
+            var logPath = easySaveLogXmlPath.Replace(@"bin\Debug\net6.0", "Logs");
             var settings = new XmlWriterSettings
             {
                 OmitXmlDeclaration = true,
@@ -49,13 +49,13 @@ namespace EasySave1
                 }
                 sw.WriteLine("\n");
             }
-            
+
         }
 
         public static void WriteStateLog(int workNb)
         {
             var easySaveStateLogJsonPath = Path.Combine(Directory.GetCurrentDirectory(), "EasySaveStateLog.json");
-            var logPath = easySaveStateLogJsonPath.Replace("bin/Debug/net6.0", "Logs");
+            var logPath = easySaveStateLogJsonPath.Replace(@"bin\Debug\net6.0", "Logs");
             using (StreamWriter sw = new StreamWriter(logPath, true))
             {
 
@@ -66,7 +66,7 @@ namespace EasySave1
                 sw.WriteLine($"\"State\": \"{Model.WorkList[workNb - 1].WorkState}\", ");
                 sw.WriteLine($"\"TotalFilesToCopy\": {Model.WorkList[workNb - 1].TotalFilesToCopy}, ");
                 sw.WriteLine($"\"TotalFilesSize\": {Model.WorkList[workNb - 1].TotalDirSize}, ");
-                sw.WriteLine($"\"NbFilesLeftToDo\": {Model.WorkList[workNb-1].NbFilesLeftToDo} ");
+                sw.WriteLine($"\"NbFilesLeftToDo\": {Model.WorkList[workNb - 1].NbFilesLeftToDo} ");
                 sw.WriteLine($"\"Progression\": {Model.WorkList[workNb - 1].Progression} ");
                 sw.WriteLine("}");
             }
@@ -75,7 +75,7 @@ namespace EasySave1
         public static void WriteStateLogXML(int workNb)
         {
             var easySaveStateLogXmlPath = Path.Combine(Directory.GetCurrentDirectory(), "EasySaveStateLog.xml");
-            var logPath = easySaveStateLogXmlPath.Replace("bin/Debug/net6.0", "Logs");
+            var logPath = easySaveStateLogXmlPath.Replace(@"bin\Debug\net6.0", "Logs");
             var settings = new XmlWriterSettings
             {
                 OmitXmlDeclaration = true,
@@ -99,7 +99,7 @@ namespace EasySave1
                 }
                 sw.WriteLine("\n");
             }
-            
+
         }
 
         public static void WriteLogger(int workNb)
