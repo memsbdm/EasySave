@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "mems",
+    "SrcPath": "C:\\Users\\Mehme\\OneDrive\\Bureau",
+    "DestPath": "C:\\Users\\Mehme\\OneDrive\\dest",
+    "CreationTime": "09/02/2022 19:12:01",
+    "WorkState": 1,
+    "Type": 1,
+    "NbFilesLeftToDo": 0,
+    "Progression": 0.0,
+    "TotalFilesToCopy": 100,
+    "TotalDirSize": 2777579
+  },
+  {
+    "Name": "",
+    "SrcPath": "",
+    "DestPath": "",
+    "CreationTime": "",
+    "WorkState": 0,
+    "Type": 0,
+    "NbFilesLeftToDo": 0,
+    "Progression": 0.0,
+    "TotalFilesToCopy": 0,
+    "TotalDirSize": 0
+  },
+  {
+    "Name": "",
+    "SrcPath": "",
+    "DestPath": "",
+    "CreationTime": "",
+    "WorkState": 0,
+    "Type": 0,
+    "NbFilesLeftToDo": 0,
+    "Progression": 0.0,
+    "TotalFilesToCopy": 0,
+    "TotalDirSize": 0
+  },
+  {
+    "Name": "",
+    "SrcPath": "",
+    "DestPath": "",
+    "CreationTime": "",
+    "WorkState": 0,
+    "Type": 0,
+    "NbFilesLeftToDo": 0,
+    "Progression": 0.0,
+    "TotalFilesToCopy": 0,
+    "TotalDirSize": 0
+  },
+  {
+    "Name": "",
+    "SrcPath": "",
+    "DestPath": "",
+    "CreationTime": "",
+    "WorkState": 0,
+    "Type": 0,
+    "NbFilesLeftToDo": 0,
+    "Progression": 0.0,
+    "TotalFilesToCopy": 0,
+    "TotalDirSize": 0
+  }
+]
